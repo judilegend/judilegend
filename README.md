@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @judilegend
-- 👀 I’m interested in Web development speciality
-- Front-end
+- 👀 I’m interested in Web development especially Front-end
 - 🌱 I’m passionate about mobile development also
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
