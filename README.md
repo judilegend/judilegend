@@ -1,16 +1,23 @@
-# Salut ! 👋 Moi c'est [Judickael]
+# Salut ! 👋 Moi c'est Judickael
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=Fullstack%20%26%20Data%20Engineer&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
 ## 🚀 À propos de moi
-Développeur **Fullstack** avec une forte affinité pour la **Data Science**. J'aime construire des ponts entre des modèles d'analyse complexes et des interfaces utilisateur intuitives.
+Développeur **Fullstack Junior** passionné par l'alliance entre le Web moderne et l'intelligence des données.
 
-- 🏗️ Je bâtis des applications web robustes avec **Next.js** et **Node.js**.
-- 📊 Je manipule et analyse des données avec **Pandas** et **Scikit-Learn**.
-- 🔌 Je conçois des APIs performantes avec **FastAPI** et **Flask**.
-- 🔭 En plein peaufinage de mon portfolio pour présenter mes derniers projets ML & Web.
+- 🏗️ Je bâtis des applications avec **Next.js**, **React** et **Node.js**.
+- 📊 Expert en manipulation de données avec **Python** (**Pandas**, **NumPy**, **Scikit-Learn**).
+- 🔌 Conception d'APIs robustes avec **FastAPI**, **Flask** et **Node.js**.
+- 🔭 Actuellement sur la finalisation de mon portfolio professionnel.
+
+---
+
+## 🐍 Mon Activité (Snake Mode)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/judilegend/judilegend/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -35,7 +42,7 @@ Développeur **Fullstack** avec une forte affinité pour la **Data Science**. J'
 
 ---
 
-## 📊 Statistiques d'activité
+## 📊 Mes Stats GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judilegend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judilegend&layout=compact&theme=tokyonight&hide_border=true" />
