@@ -12,15 +12,6 @@ Développeur **Fullstack Junior** passionné par l'alliance entre le Web moderne
 - 🔌 Conception d'APIs robustes avec **FastAPI**, **Flask** et **Node.js**.
 - 🔭 Actuellement sur la finalisation de mon portfolio professionnel.
 
----
-
-## 🐍 Mon Activité (Snake Mode)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/judilegend/judilegend/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🛠️ Mon Stack Technique
 
 ### 🌐 Frontend & Backend
@@ -42,14 +33,3 @@ Développeur **Fullstack Junior** passionné par l'alliance entre le Web moderne
 
 ---
 
-## 📊 Mes Stats GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judilegend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judilegend&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
