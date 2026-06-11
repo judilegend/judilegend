@@ -1,9 +1,4 @@
 # Salut ! 👋 Moi c'est Judickael
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=200&section=header&text=Fullstack%20%26%20Data%20Engineer&fontSize=50&animation=fadeIn" width="100%" />
-</div>
-
 ## 🚀 À propos de moi
 Développeur **Fullstack Junior** passionné par l'alliance entre le Web moderne et l'intelligence des données.
 
